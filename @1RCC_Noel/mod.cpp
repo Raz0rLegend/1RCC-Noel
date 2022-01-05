@@ -1,0 +1,9 @@
+﻿name = "1er RCC Noel";
+picture = "1RCCPicture.paa";
+logo = "1RCCPicture.paa";
+logoOver = "1RCCPicture.paa";
+actionName = "Website";
+action = "http://1errcc.xooit.org/";
+description = "_";
+tooltipOwned = "À toi de jouer. PoceBlo!";
+overviewPicture = "1RCCPicture.paa";
